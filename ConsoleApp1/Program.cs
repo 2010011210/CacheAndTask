@@ -9,7 +9,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            CacheTest.RunTest();
+            CacheTest.RunMultiThread();
+            Console.ReadLine();
+            Thread.Sleep(20000);
+            CustomeCache.Exist("key2");
             return;
             ShopSortTest.Run();
             Console.ReadLine();

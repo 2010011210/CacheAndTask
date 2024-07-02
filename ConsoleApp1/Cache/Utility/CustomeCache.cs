@@ -11,6 +11,7 @@ namespace ConsoleApp1.Cache.Utility
     {
         private static Dictionary<string, object> customeCache;
 
+        
         static CustomeCache() 
         {
             customeCache = new Dictionary<string, object>();
@@ -20,13 +21,24 @@ namespace ConsoleApp1.Cache.Utility
         // 添加
         public static void Add(string key, object value) 
         {
-            if (customeCache.ContainsKey(key))
+            LockAction(new Action(() => {
+                if (customeCache.ContainsKey(key))
+                {
+                    customeCache[key] = value;
+                }
+                else
+                {
+                    customeCache.Add(key, value);
+                }
+            }));
+        }
+
+        private static readonly object LockObject = new object();
+        private static void LockAction(Action action) 
+        {
+            lock (LockObject) 
             {
-                customeCache[key]= value;
-            }
-            else 
-            {
-                customeCache.Add(key, value);
+                action.Invoke();
             }
         }
 
@@ -70,7 +82,7 @@ namespace ConsoleApp1.Cache.Utility
             else 
             {
                 t = fun.Invoke();
-                customeCache.Add(key, t);
+                CustomeCache.Add(key, t);
             }
             return t;
         }
