@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|d:\\github\\cacheandtask\\cacheandtask\\consoleapp1\\task\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|solutionrelative:task\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|d:\\github\\cacheandtask\\cacheandtask\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|d:\\github\\cacheandtask\\cacheandtask\\consoleapp1\\cache\\utility\\customecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|solutionrelative:cache\\utility\\customecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|d:\\github\\cacheandtask\\cacheandtask\\consoleapp1\\cache\\utility\\cachetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|solutionrelative:cache\\utility\\cachetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|d:\\github\\cacheandtask\\cacheandtask\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|d:\\github\\cacheandtask\\cacheandtask\\consoleapp1\\cache\\utility\\customecachewithexpired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|solutionrelative:cache\\utility\\customecachewithexpired.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|d:\\github\\cacheandtask\\cacheandtask\\consoleapp1\\cache\\utility\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|solutionrelative:cache\\utility\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|d:\\github\\cacheandtask\\cacheandtask\\consoleapp1\\cache\\utility\\redishelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|solutionrelative:cache\\utility\\redishelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|d:\\github\\cacheandtask\\cacheandtask\\consoleapp1\\cache\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F1F3239-21A7-4E7C-814A-F640C0E6E2CC}|ConsoleApp1.csproj|solutionrelative:cache\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:30:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:29:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:25:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:24:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Task\\Utility.cs",
+              "RelativeDocumentMoniker": "Task\\Utility.cs",
+              "ToolTip": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Task\\Utility.cs",
+              "RelativeToolTip": "Task\\Utility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T03:05:53.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomeCacheWithExpired.cs",
+              "DocumentMoniker": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Utility\\CustomeCacheWithExpired.cs",
+              "RelativeDocumentMoniker": "Cache\\Utility\\CustomeCacheWithExpired.cs",
+              "ToolTip": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Utility\\CustomeCacheWithExpired.cs",
+              "RelativeToolTip": "Cache\\Utility\\CustomeCacheWithExpired.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:37:19.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RedisHelper.cs",
+              "DocumentMoniker": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Utility\\RedisHelper.cs",
+              "RelativeDocumentMoniker": "Cache\\Utility\\RedisHelper.cs",
+              "ToolTip": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Utility\\RedisHelper.cs",
+              "RelativeToolTip": "Cache\\Utility\\RedisHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:37:19.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Cache\\Model\\Order.cs",
+              "ToolTip": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Model\\Order.cs",
+              "RelativeToolTip": "Cache\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:37:19.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CacheTest.cs",
+              "DocumentMoniker": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Utility\\CacheTest.cs",
+              "RelativeDocumentMoniker": "Cache\\Utility\\CacheTest.cs",
+              "ToolTip": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Utility\\CacheTest.cs",
+              "RelativeToolTip": "Cache\\Utility\\CacheTest.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwHYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:37:19.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Utility\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Cache\\Utility\\DBHelper.cs",
+              "ToolTip": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Utility\\DBHelper.cs",
+              "RelativeToolTip": "Cache\\Utility\\DBHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:37:19.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-05T02:37:19.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomeCache.cs",
+              "DocumentMoniker": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Utility\\CustomeCache.cs",
+              "RelativeDocumentMoniker": "Cache\\Utility\\CustomeCache.cs",
+              "ToolTip": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Cache\\Utility\\CustomeCache.cs",
+              "RelativeToolTip": "Cache\\Utility\\CustomeCache.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAYwEIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:37:19.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T02:37:19.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 153,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:22:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

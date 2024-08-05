@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wangcong\\Desktop\\ConsolePragram\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wangcong\\Desktop\\ConsolePragram\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wangcong\\Desktop\\ConsolePragram\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\wangcong\\Desktop\\ConsolePragram\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\wangcong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wangcong\\Desktop\\ConsolePragram\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\GitHub\\CacheAndTask\\CacheAndTask\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wangcong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +35,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -61,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
